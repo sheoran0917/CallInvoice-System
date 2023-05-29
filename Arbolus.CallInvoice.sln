@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arbolus.CallInvoice", "Arbolus.CallInvoice\Arbolus.CallInvoice.csproj", "{40DB8C33-462C-468D-B56B-978CAC9D3346}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arbolus.CallInvoice.Tests", "Arbolus.CallInvoice.Test\Arbolus.CallInvoice.Tests.csproj", "{D87EBC46-101B-44F8-9F41-13AEE6DF84D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A682F0D5-10F7-4AF2-8177-3134F0B5DE0D}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DB8C33-462C-468D-B56B-978CAC9D3346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DB8C33-462C-468D-B56B-978CAC9D3346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DB8C33-462C-468D-B56B-978CAC9D3346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DB8C33-462C-468D-B56B-978CAC9D3346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87EBC46-101B-44F8-9F41-13AEE6DF84D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87EBC46-101B-44F8-9F41-13AEE6DF84D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87EBC46-101B-44F8-9F41-13AEE6DF84D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87EBC46-101B-44F8-9F41-13AEE6DF84D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4271DEA4-1B3E-47C4-BCDE-AD7065E487B7}
+	EndGlobalSection
+EndGlobal
